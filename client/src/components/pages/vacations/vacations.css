@@ -1,0 +1,25 @@
+.vacations .MuiPaper-elevation1 a {
+  text-decoration: none;
+}
+.card-img-top {
+  width: 100%;
+  display: none;
+}
+.MuiCardMedia-root {
+  background-size: cover;
+  width: 100%;
+  height: 230px;
+  overflow: hidden;
+  background-color: papayawhip;
+}
+.mask {
+  background: #e9ecef;
+  min-height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-text {
+  margin-top: 5px;
+  max-height: 115px;
+  overflow: overlay;
+}
